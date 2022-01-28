@@ -4,7 +4,7 @@
   "description": "A REST-API to fetch details about NFTs and Tokens from a particular address",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/main.js"
   },
   "author": "vaibhav-ganatra",
   "license": "ISC",
